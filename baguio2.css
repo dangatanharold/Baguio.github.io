@@ -116,30 +116,7 @@ h1{
 	left: 0;
 	right: 0;
 }
-#footer a{
-	margin-top: 3px;
-}
-h1{
-	text-align: center;
-	color: white;
-	font-size: 100px;
 
-}
-p{
-	margin-right: 200px;
-	margin-left: 200px;
-
-}
-h2{
-	text-indent:100px;
-	color: white;
-}
-img {
-    display: block;
-    margin: auto;
-    color: white;
-
-}
 body{
 	
     background-image: url("Image/butterfly.jpg");
