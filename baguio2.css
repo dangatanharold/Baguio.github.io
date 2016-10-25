@@ -96,6 +96,9 @@ h3{
 				line-height: 1.2;
 				color: #000;
 			}
+#footer a{
+	margin-top: 3px;
+}
 img {
     display: block;
     margin: auto;
